@@ -1,6 +1,8 @@
 # hugopress
 hugopress 是在hugo的基础上提供了管理功能，让生成静态页面更加的方便快捷。
 
+![screenshot](https://raw.githubusercontent.com/hugopress/admin/master/images/TIM%E6%88%AA%E5%9B%BE20191225093954.png)
+
 # features
 
 ## 文章管理
